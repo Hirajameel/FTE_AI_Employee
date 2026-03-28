@@ -1,0 +1,23 @@
+# AI Employee Scripts - Dependencies
+
+# Core dependencies
+# No external dependencies required for Bronze Tier!
+# All scripts use only Python standard library:
+# - pathlib
+# - logging
+# - datetime
+# - hashlib
+# - shutil
+# - subprocess
+# - re
+# - argparse
+# - time
+# - abc (abstract base classes)
+# - typing
+
+# Optional dependencies for future tiers:
+# watchdog>=3.0.0      # For efficient file system watching (Silver tier)
+# google-api-python-client>=2.0.0  # For Gmail API (Silver tier)
+# google-auth-httplib2>=0.1.0      # For Gmail authentication
+# google-auth-oauthlib>=0.5.0      # For Gmail OAuth
+# playwright>=1.40.0   # For WhatsApp web automation (Silver tier)
